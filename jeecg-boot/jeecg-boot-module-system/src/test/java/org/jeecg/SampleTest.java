@@ -70,6 +70,7 @@ public class SampleTest {
 	@Test
 	public void testGit() {
 		System.out.println(("----- git test ------"));
+		System.out.println(("----- git test2222222222 ------"));
 
 
 	}
