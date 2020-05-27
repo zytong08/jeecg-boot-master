@@ -10,6 +10,7 @@ public class SecurityToolsTest {
     public void Test(){
         MyKeyPair mkeyPair = SecurityTools.generateKeyPair();
         System.out.println(1111111);
+        System.out.println(2222222);
         JSONObject msg = new JSONObject();
         msg.put("name", "党政辉");
         msg.put("age", 50);
