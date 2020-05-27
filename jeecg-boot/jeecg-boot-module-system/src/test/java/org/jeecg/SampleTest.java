@@ -64,4 +64,13 @@ public class SampleTest {
 		sysDataLogService.addDataLog(tableName, dataId, dataContent);
 	}
 	//author:lvdandan-----date：20190315---for:添加数据日志测试----
+
+
+
+	@Test
+	public void testGit() {
+		System.out.println(("----- git test ------"));
+
+
+	}
 }
