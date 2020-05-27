@@ -123,7 +123,7 @@ public class SysAnnouncementSendController {
 	}
 	
 	/**
-	  *   通过id删除    -----
+	  *   通过id删除    -----   你看看
 	 * @param id
 	 * @return
 	 */
