@@ -89,4 +89,10 @@ public class MyClassLoader extends ClassLoader {
 		}
 		return realPath;
 	}// getAppPath定义结束
+
+	public static void main(String[] args) {
+		System.out.println(getPackPath(new MyClassLoader()));
+		System.out.println(getAppPath(MyClassLoader.class));
+	}
+
 }
